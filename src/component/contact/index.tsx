@@ -41,7 +41,7 @@ export default function Contact() {
         {/* Your Info */}
         <Box sx={{ mb: 3 }}>
           <Typography variant="h6" fontWeight="bold">
-           My Details
+          j My Details
           </Typography>
           <Typography sx={{ mt: 1 }}>
             <strong>Name:</strong> Damodar<br />
